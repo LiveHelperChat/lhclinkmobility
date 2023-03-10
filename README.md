@@ -19,3 +19,11 @@ It will install all the configuration. After this step go to
 * Set department which one to use.
 
 Each time you import you will have to enter attributes.
+
+# Bot configuration
+
+Imported default bot has few sampels what type of messages are support. To test it out edit department and choose as default bot newly imported bot. `LinkMobilityAPI`
+
+Once you setup bot for department you can try to send messages and write 
+
+`list`, `help`
