@@ -7,6 +7,8 @@ Clone repository to extesnions folder should look like
 
 > extension > lhclinkmobility
 
+There is no need to add this extension to settings file.
+
 Run cronjob
 
 > /usr/bin/php cron.php -s site_admin -e lhclinkmobility -c cron/import
