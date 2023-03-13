@@ -22,6 +22,8 @@ It will install all the configuration. After this step go to
 
 Each time you import you will have to enter attributes.
 
+Also make sure you copy `URL to put in third party Rest API service` and put in your provider. Each time you reimport `Identifier` changes. You can change it to old one after import.
+
 # Bot configuration
 
 Imported default bot has few sampels what type of messages are support. To test it out edit department and choose as default bot newly imported bot. `LinkMobilityAPI`
